@@ -125,7 +125,7 @@ require ("logica/Medico.php");
         				        }
         				        echo "</ul>";
         				    } else {
-        				        echo "<ul><li><em>No hay médicos registrados en esta especialidad</em></li></ul>";
+        				        echo "<ul><li><em>No hay médicos registrados en esta especialidad.</em></li></ul>";
         				    }
         				    
         				    echo "</li>";
